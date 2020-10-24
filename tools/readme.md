@@ -13,9 +13,9 @@ opencv 4.1.2
 <br/>
 
 #### General Information
+show video data and annotations frame by frame.
 
 map from image poisiton in visual tools to video name
-
 |  image_position  |   left-top    |   right-top   |  left-bottom  | right-bottom  |
 | :--------------: | :-----------: | :-----------: | :-----------: | :-----------: |
 | ***video_name*** | xxx_fovs1.mp4 | xxx_fovs6.mp4 | xxx_fovs3.mp4 | xxx_fovs5.mp4 |
