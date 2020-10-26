@@ -1,4 +1,4 @@
-# ***[WACV CalmCar MOT Challenge](https://avvision.xyz)***
+# ***[WACV AVVision Workshop CalmCar MTMC Challenge](https://avvision.xyz)***
 
 <br/>
 
