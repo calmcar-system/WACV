@@ -153,7 +153,7 @@ submission will be rejected if not in correct format.
 
 1. Register at the [CMT submission system](https://cmt3.research.microsoft.com/AVV2021/) and obtain the submission ID (select ***Challenge: CalmCar MTMC*** in the subject area).
 
-2. Download the dataset from [link](https://pan.baidu.com/s/1uCwNbJTGX1_ER54_HeQ5rA)  key:ky1d
+2. Download the dataset from (https://pan.baidu.com/s/1uCwNbJTGX1_ER54_HeQ5rA)  key:ky1d
 
 3. Submit the pretrained model, source code, and a docker image to the [CMT submission system](https://cmt3.research.microsoft.com/AVV2021/) (by simply adding an attachment to the registration) for evaluation.
 
