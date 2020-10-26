@@ -155,7 +155,7 @@ submission will be rejected if not in correct format.
 
 2. Download the dataset from …
 
-3. Submit the pretrained model, source code, and a docker image on the [CMT submission system](https://cmt3.research.microsoft.com/AVV2021/) (by simply adding an attachment to the registration) for evaluation.
+3. Submit the pretrained model, source code, and a docker image to the [CMT submission system](https://cmt3.research.microsoft.com/AVV2021/) (by simply adding an attachment to the registration) for evaluation.
 
    <br/>
 
