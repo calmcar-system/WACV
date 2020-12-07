@@ -157,6 +157,8 @@ submission will be rejected if not in correct format.
 
 3. Submit the pretrained model, source code, and a docker image to the [CMT submission system](https://cmt3.research.microsoft.com/AVV2021/) (by simply adding an attachment to the registration) for evaluation.
 
+4. If CMT submission system is not available, please upload your result to Baidu Netdisk and send the share link of your result to shaojuan.fan@calmcar.com
+
    <br/>
 
 
