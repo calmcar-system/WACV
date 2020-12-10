@@ -160,6 +160,7 @@ submission will be rejected if not in correct format.
 4. If CMT submission system is not available, please upload your result to Baidu Netdisk and send the share link of your result to shaojuan.fan@calmcar.com
 
    <br/>
+5. The paper template is identical to the WACV2020 main conference. The author toolkit(latex only) is available both on Overleaf and in Github, The submission website can be found here [(CMT)](https://cmt3.research.microsoft.com/AVV2021/)
 
 
 #### **VII.** ***Contact***
